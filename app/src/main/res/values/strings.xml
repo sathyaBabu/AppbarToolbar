@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppbarToolbar</string>
+
+    <string name="action_favorite">Favourite</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_child">Child Activity</string>
+    <string name="action_search">Search</string>
+    <string name="action_CallChildActivity">Call Child activity</string>
+</resources>

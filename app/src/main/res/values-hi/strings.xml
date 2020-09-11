@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aएप्लिकेशन टूल बारr</string>
+
+    <string name="action_favorite">मेरी पसंदीदा क्रिया</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_child">बाल गतिविधि</string>
+    <string name="action_search">खोज</string>
+    <string name="action_CallChildActivity">बाल गतिविधि को बुलाओ</string>
+</resources>
